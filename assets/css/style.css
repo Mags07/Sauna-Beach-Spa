@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@200&family=Gochi+Hand&display=swap');
 *{
     margin: 0;
     padding: 0;
     border: none;
 }
 body {
-    font-family: montserrat, sans-serif;
+    font-family: Biryani, sans-serif;
     font-weight: 500;
 }

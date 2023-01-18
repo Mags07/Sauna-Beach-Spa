@@ -32,6 +32,9 @@ body {
     color: #fcfdf8
 }
 
+body {
+    background-color: #0a7482;}
+
 /*headings and logo*/
 h1, h2 {
     font-family: Montserrat, sans-serif;
@@ -43,6 +46,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 20px;
 }
 
 /*navigation links*/
@@ -67,9 +71,9 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fcfdf8;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fcfdf8;
 }

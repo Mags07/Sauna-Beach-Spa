@@ -1,7 +1,23 @@
 #hero {
     height: 100vh;
     width: 100%;
-    background: red;
+    background: teal;
+}
+
+#hero video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    object-fit: cover;
+}
+
+#hero header {
+    position: relative;
+    z-index: 20;
+
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Biryani:wght@200&family=Montserrat:wght@500&display=swap');
@@ -13,7 +29,7 @@
 body {
     font-family: Biryani, sans-serif;
     font-weight: 300;
-    color: #3a3a3a
+    color: #fcfdf8
 }
 
 /*headings and logo*/
@@ -21,7 +37,7 @@ h1, h2 {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: black;
+    color: #fcfdf8;
 }   
 
 #logo {

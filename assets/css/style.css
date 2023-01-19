@@ -104,4 +104,6 @@ p {
     padding-top:30px;
     width: 40%;
     float: right;
+    background: url("assets/css/images/back_massage_home_page.jpg") no-repeat;
+    height: 100%;
 }

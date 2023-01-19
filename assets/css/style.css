@@ -108,17 +108,11 @@ p {
     height: 100%;
 }
 
-img {
-    hight:100%;
-    widgh:100%;
-}
-
 ul {
     margin-left: 30px;
 }
-footer {
-    margin-top:200px;
-    padding-top: 100px;
-    margin-left: 40%;
-    border: #fcfdf8;
+
+img {
+    width: 380px;
+    height: 250px;
 }

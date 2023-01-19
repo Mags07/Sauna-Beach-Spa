@@ -52,6 +52,7 @@ h1, h2, {
     font-size: 280%;
     margin-left: 20px;
     color: #fcfdf8;
+    
 }
 
 /*navigation links*/
@@ -90,10 +91,6 @@ p {
     color: #fcfdf8;
 } 
 
-#welcome {
-    height: 200px;
-
-}
 #left-about {
     margin-left: 10px;
     padding-top:30px;

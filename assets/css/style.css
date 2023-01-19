@@ -116,3 +116,25 @@ img {
     width: 380px;
     height: 250px;
 }
+
+/*footer*/
+footer {
+    height: 20px;
+}
+
+.social-network {
+    text-align: center;
+}
+
+.social-network > li {
+    display: inline-grid;
+    grid-gap: 24px;
+    grid-auto-flow: column;
+}
+
+#social-network {
+    font-size: 160%;
+    margin: 1%;
+    padding: 50%;
+    color: #fcfdf8;
+}

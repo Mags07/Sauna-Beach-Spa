@@ -84,30 +84,31 @@ h1, h2, {
     border-bottom: 1px solid #fcfdf8;
 }
 
-/*Welcome Section*/
-p {
-    font-family: Montserrat, sans-serif;
-    letter-spacing: 1px;
-    color: #fcfdf8;
-} 
-
-#left-about {
-    margin-left: 10px;
-    padding-top:30px;
-    width: 40%
+/*Welcome & Health Benefits Sections*/
+.text {
+    padding-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
 }
 
-#right-about {
-    margin-right: 10px;
-    padding-top:30px;
-    width: 40%;
-    float: right;
-    background: url("assets/css/images/back_massage_home_page.jpg") no-repeat;
-    height: 100%;
+.left_about {
+    width:60%;
+    float:left;
+    height:100%;
+    margin-left: 2%;
 }
+
+.right_about {
+    width:30%;
+    float:right;
+    height:100%;
+    margin-right: 2%; 
+    display: flex;
+    justify-content: flex-end;
+    }
 
 ul {
-    margin-left: 30px;
+    margin-left: 4%;
 }
 
 img {

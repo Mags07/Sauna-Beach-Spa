@@ -92,14 +92,14 @@ h1, h2, {
 }
 
 .left_about {
-    width:60%;
+    width:63%;
     float:left;
     height:100%;
     margin-left: 2%;
 }
 
 .right_about {
-    width:30%;
+    width:40%;
     float:right;
     height:100%;
     margin-right: 2%; 
@@ -112,28 +112,34 @@ ul {
 }
 
 img {
-    width: 380px;
-    height: 250px;
+    width: 400px;
+    height: 290px;
 }
 
 /*footer*/
 footer {
-    height: 20px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    height: 50px;
+    color: #fcfdf8;
 }
 
-.social-network {
-    text-align: center;
+#left_footer {
+    width:50%;
+    float:left;
+    height:100%;
+    margin-left: 2%;
 }
 
 .social-network > li {
     display: inline-grid;
-    grid-gap: 24px;
+    grid-gap: 150px;
     grid-auto-flow: column;
+    font-size: 180%;
 }
 
-#social-network {
-    font-size: 160%;
-    margin: 1%;
-    padding: 50%;
+.social-network i {
     color: #fcfdf8;
+    padding: 5%;
+    margin: 1%;
 }

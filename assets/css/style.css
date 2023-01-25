@@ -107,7 +107,7 @@ h1, h2 {
     justify-content: flex-end;
     }
 
-ul {
+.benefits_list {
     margin-left: 4%;
 }
 
@@ -118,6 +118,7 @@ img {
 
 /*footer*/
 footer {
+    margin: 2%;
     color: #fcfdf8;
     text-align: center;
 }
@@ -125,12 +126,12 @@ footer {
 .social-network > li {
     display: inline-grid;
     grid-auto-flow: column;
-    font-size: 200%;
+    font-size: 170%;
+    letter-spacing: 30px;
 }
 
 .social-network i {
     font-size: 80%;
     color: #fcfdf8;
-    margin: 20%;
-    padding: 30%;
+    margin-top: 25%;
 }

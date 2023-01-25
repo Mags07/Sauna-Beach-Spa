@@ -40,7 +40,7 @@ body {
 }
 
 /*headings and logo*/
-h1, h2, {
+h1, h2 {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -118,28 +118,19 @@ img {
 
 /*footer*/
 footer {
-    padding-top: 2%;
-    padding-bottom: 1%;
-    height: 50px;
     color: #fcfdf8;
-}
-
-#left_footer {
-    width:50%;
-    float:left;
-    height:100%;
-    margin-left: 2%;
+    text-align: center;
 }
 
 .social-network > li {
     display: inline-grid;
-    grid-gap: 150px;
     grid-auto-flow: column;
-    font-size: 180%;
+    font-size: 200%;
 }
 
 .social-network i {
+    font-size: 80%;
     color: #fcfdf8;
-    padding: 5%;
-    margin: 1%;
+    margin: 20%;
+    padding: 30%;
 }

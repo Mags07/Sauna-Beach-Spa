@@ -34,8 +34,42 @@
         </header>
     </section>
     <section class="text" name="form">
-        <form></form>
-        <div class="left_about">
+        <div class="container">
+            <div class="left_side">
+                <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank" clas="left-side">
+                    <h2>Contact Us</h2>
+                    <br>
+                    <label for="fullname">Full Name:</label>
+                    <br>
+                    <input type="text" class="input" id="fullname" name="fullname" placeholder="Your name" required>
+                    <br>
+                    <label for="email">Email Address</label>
+                    <br>
+                    <input type="email" class="input" id="email" name="email" placeholder="Email" required>
+                    <br>
+                    <label for="number">Phone Number:</label>
+                    <br>
+                    <!--Phone number code from https://www.w3schools.com/Tags/att_input_type_tel.asp-->
+                    <input type="tel" class="input" id="number" name="phone-number" pattern="[0-9]{10}"
+                        placeholder="Ex 0851234567" required="">
+                    <br>
+                    <p>How would you like to be contacted?</p>
+                    <label for="email">By Email</label>
+                    <input type="radio" class="input" id="contact1" name="contact" value="by-email" required>
+                    <br>
+                    <label for="phone">By Phone</label>
+                    <input type="radio" class="input" id="contact2" name="contact" value="by-phone" checked>
+                    <br>
+                    <label for="feedback-message">Booking Enquiry or Feedback</label>
+                    <br>
+                    <textarea type=text id="feedback-enquiry" name="enquiry/feedback" maxlength="200"
+                        placeholder="Write your booking enquiry or feedback here. If it's an enquiry please state the date and aproximate time you would like to attend."></textarea>
+                    <p>
+                        We will contact enquiries within 24 hours.
+                    </p><br>
+                    <input type="submit" value="Submit" class="button">
+                </form>
+            </div>
         </div>
         <div class="right_about"><iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12753.436190584229!2d-8.577484432245098!3d51.64772031887133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x484460bde579cb37%3A0xdbc035cf2db632c2!2sGarretstown%20Beach!5e0!3m2!1sen!2sie!4v1674699230486!5m2!1sen!2sie"

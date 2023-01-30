@@ -175,7 +175,7 @@ footer {
 .treatments-image {
     height: 100%;
     width: 100%;
-    background-image: url("../images_css/barrel-bath.jpg") no-repeat center center;
+    background-image: url("../images_css/barrel_bath.webp") no-repeat center center;
     zoom: 30%;
 }
 
@@ -183,7 +183,7 @@ footer {
 .contact-us-image {
     height: 100%;
     width: 100%;
-    background-image: url("../images_css/beach-view.jpg") no-repeat center center;
+    background-image: url("../images_css/beach_view.webp") no-repeat center center;
     zoom: 30%;
 }
 
@@ -213,6 +213,7 @@ footer {
 
 .input {
     padding: 1%;
+    margin-bottom: 3%;
 }
 
 .right-about {

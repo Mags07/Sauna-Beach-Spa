@@ -220,26 +220,16 @@ footer {
 
 /*Googlemaps*/
 .right-side {
-    width: 60%;
+    width: 50%;
     height: 100%;
     float: right;
-    display: flex;
-    justify-content: right;
     border-color: #24494f;
 }
 
 #map {
-    width: 80%;
+    width: 95%;
     height: 100%;
     margin-right: 10%;
-}
-
-#contact-details {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
 }
 
 /*media queries*/

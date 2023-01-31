@@ -107,7 +107,6 @@ h2 {
     background-color: #24494f;
     padding: 2%;
     text-justify: auto;
-    border-radius: 3%;
 }
 
 .right_about {
@@ -122,20 +121,12 @@ h2 {
     margin-left: 4%;
 }
 
-.hero-images {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: right;
-}
-
-.link-images {
+img {
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: right;
     transition: all .4s ease-in-out; 
-    border-radius: 3%;
 }
 
 .link-images:hover {
@@ -163,52 +154,11 @@ footer {
     margin-top: 25%;
 }
 
-/*media queries*/
-/*for screens up to 950px*/
-@media screen and (max-width: 950px) {
-    #hero {
-        font-size: 88%;
-    }
-
-    #logo {
-        font-size: 180%;
-    }
-
-    .text {
-        font-size: 90%;
-        width: 100%;
-    }
-}
-
-/*for screens up to 650px*/
-@media screen and (max-width: 650px) {
-    #hero {
-        font-size: 88%;
-    }
-
-    #logo {
-        font-size: 130%;
-    }
-
-    .text {
-        font-size: 80%;
-        width: 85%;
-    }
-}
-
-/*Treatments page additions*/
-.treatments-image {
+/*Hero images on Treatments and Contact Us pages*/
+.hero-image {
     height: 100%;
     width: 100%;
-    background-image: url("../images_css/barrel_bath.webp") no-repeat center center;
-    zoom: 30%;
-}
-
-/*Contact us page additions*/
-.contact-us-image {
-    height: 100%;
-    width: 100%;
-    background-image: url("../images_css/beach_view.webp") no-repeat center center;
+    background-image: no-repeat center center;
     zoom: 30%;
 }
 
@@ -216,7 +166,7 @@ footer {
 /*Some styling for the form has been inspired by https://elainebroche-dev.github.io/ms1-thrive/contact.html*/
 .container {
     min-height: 100%;
-    width: 60%;
+    width: 50%;
     padding-left:2%;
     float: left;
     background-color: #24494f;
@@ -226,7 +176,7 @@ footer {
 
 .left-side {
     text-align: left;
-    border-radius: 30%;
+    border-radius: 20%;
 }
 
 .left-side h2 {
@@ -270,7 +220,8 @@ footer {
 
 /*Googlemaps*/
 .right-side {
-    width: 100%;
+    width: 60%;
+    height: 100%;
     float: right;
     border: none;
     display: flex;
@@ -279,7 +230,39 @@ footer {
 
 #map {
     width: 100%;
-    height: 60%;
+    height: 150%;
     margin-right: 10%;
 }
-width="600" height="450" style="border:0;"
+
+/*media queries*/
+/*for screens up to 950px*/
+@media screen and (max-width: 950px) {
+    #hero {
+        font-size: 88%;
+    }
+
+    #logo {
+        font-size: 180%;
+    }
+
+    .text {
+        font-size: 90%;
+        width: 100%;
+    }
+}
+
+/*for screens up to 650px*/
+@media screen and (max-width: 650px) {
+    #hero {
+        font-size: 88%;
+    }
+
+    #logo {
+        font-size: 130%;
+    }
+
+    .text {
+        font-size: 80%;
+        width: 85%;
+    }
+}

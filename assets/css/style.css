@@ -230,8 +230,16 @@ footer {
 
 #map {
     width: 80%;
-    height: 150%;
+    height: 100%;
     margin-right: 10%;
+}
+
+#contact-details {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 /*media queries*/

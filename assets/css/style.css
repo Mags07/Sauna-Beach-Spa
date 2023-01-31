@@ -162,6 +162,14 @@ footer {
     zoom: 30%;
 }
 
+/*Treatment page grid*/
+.grid-container {
+    display: inline-grid;
+    column-count: 3;
+    grid-template-columns: 3;
+
+  }
+
 /*Form*/
 /*Some styling for the form has been inspired by https://elainebroche-dev.github.io/ms1-thrive/contact.html*/
 .container {
@@ -220,16 +228,26 @@ footer {
 
 /*Googlemaps*/
 .right-side {
-    width: 50%;
-    height: 100%;
+    width: 100%;
+    height: 150%;
     float: right;
     border-color: #24494f;
 }
 
 #map {
     width: 95%;
-    height: 100%;
+    height: 150%;
     margin-right: 10%;
+}
+
+/*Email link in Contact Us page*/
+a:link {
+    color: #fcfdf8;
+    text-underline-position: below;
+}
+
+a:hover {
+    color: #24494f
 }
 
 /*media queries*/

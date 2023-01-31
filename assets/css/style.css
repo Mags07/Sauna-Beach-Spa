@@ -101,15 +101,15 @@ h2 {
     float: left;
     height: 100%;
     min-height: 100%;
-    width: 45%;
+    width: 40%;
     background-color: #24494f;
     padding: 2%;
 }
 
 .right_about {
-    width: 50%;
+    width: 40%;
     float: right;
-    height: 100%;
+    height: 80%;
     display: flex;
     justify-content: right;
 }
@@ -119,14 +119,14 @@ h2 {
 }
 
 .link_images {
-    width: 70%;
-    height: 110%;
+    width: 40%;
+    height: 100%;
     display: flex;
     justify-content: right;
-    transition: all .4s ease-in-out; 
+    transition: all .4s ease-in-out;
 }
 
-.link-images:hover {
+.link_images:hover {
     box-shadow: 0 15px 15px 0 rgba(0, 0, 0, 0.24), 0 10px 10px 0 rgba(0,0,0,0.19);
     transform: scale(1.1); 
 }

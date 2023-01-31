@@ -227,10 +227,6 @@ footer {
     padding-bottom: 5%;
 }
 
-textarea {
-
-}
-
 /*Button styling*/
 /*coding from https://www.w3schools.com/csS/css3_buttons.asp#:~:text=Use%20the%20border-radius%20property%20to%20add%20rounded%20corners,to%20a%20button%3A%20Example.button1%20%7Bborder-radius%3A%202px%3B%7D.button2%20%7Bborder-radius%3A%204px%3B%7D*/
 .button {

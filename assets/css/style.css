@@ -162,25 +162,28 @@ footer {
 /*Treatments page hero picture*/
 .hero-image1 {
     width: 100%;
-    zoom: 30%;
     background-size: cover;
-    overflow: hidden;
     background-position: center;
-    background-image: url(assets/css/images_css/barrel_bath-compressed.webp) no-repeat center center;
+    background-image: url("../css/images_css/barrel_bath-compressed.webp") no-repeat center center;
 }
 
 /*Contact Us page hero picture*/
 .hero-image2 {
-    width: 1920px;
+    width: 100%;
+    height: 50%;
     height: auto;
     display: block;
-    background-image: url(assets/css/images_css/beach_view_compressed.webp) no-repeat center center;
+    background-image: url("../css/images_css/beach_view_compressed.webp") no-repeat center center;
     background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    position: relative;
 }
 
 #contact-us-hero { 
     background-position:center;
-    width: 1920px;
+    width: 100%;
+    height: 50%;
 }
 
 /*Treatment page grid*/

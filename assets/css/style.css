@@ -254,12 +254,13 @@ footer {
 /*Some styling for the form has been inspired by https://elainebroche-dev.github.io/ms1-thrive/contact.html*/
 .form-container {
     min-height: 100%;
-    width: 60%;
+    width: 30%;
     padding-left:2%;
     float: left;
     background-color: #24494f;
     padding-bottom: 2%;
     padding-top: 2%;
+    padding-left: 5%;
 }
 
 .input {

@@ -107,7 +107,7 @@ h2 {
 }
 
 .right_about {
-    width: 40%;
+    width: 45%;
     float: right;
     height: 80%;
     display: flex;
@@ -119,7 +119,7 @@ h2 {
 }
 
 .link_images {
-    width: 40%;
+    width: 100%;
     height: 100%;
     display: flex;
     justify-content: right;
@@ -167,34 +167,56 @@ footer {
     height: 400px;
 }
 
-.grid_container {
+.grid-container {
     display: grid; 
     grid-template-columns: 1fr 33.33% 33.33%; 
     grid-template-rows: 1fr 50%; 
     grid-template-areas: 
         "area1 area2 area3"
         "area4 area5 area6";
-    gap: 10px 10px; 
-    width: 33.33%; 
+    gap: 5px 5px; 
+    width: 100%; 
     height: 400px; 
-    margin-top: 5%;
+    margin-top: 10%;
     margin-bottom: 20%;
     padding: 5%;
   }
 
-.grid_container > div {
-    border: 2%;
-    border-color: black;
-    width: 33.33%; 
-    height: 50px; 
+.grid-container > div {
+    width: 100%; 
+    height: 300%; 
 }
 
 
-.grid_container img {
-    width:33.33%
+.grid-container img {
+    width: 100%;
 }
 
-/*Form*/
+#picture1 {
+    grid-area: area1;
+}
+
+#picture2 {
+    grid-area: area2;
+}
+
+#picture3 {
+    grid-area: area3;
+}
+
+#picture4 {
+    grid-area: area4;
+}
+
+#picture5 {
+    grid-area: area5;
+}
+
+#picture6 {
+    grid-area: area6;
+}
+
+/*Form in Contact Us page*/
 /*Some styling for the form has been inspired by https://elainebroche-dev.github.io/ms1-thrive/contact.html*/
 .form.container {
     min-height: 100%;

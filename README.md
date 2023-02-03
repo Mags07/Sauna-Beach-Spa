@@ -1,142 +1,245 @@
+<!-- <img width="960" alt="am i responsive screenshot" src="https://"> -->
+
 # Sauna Beach Spa
 
-Sauna Beach Spa is a new small sauna and spa business located on a beautiful Garretstown beach in County Cork. The site is targeted towards people around Cork looking for a way to spend time with friends and family in a relaxing environment. 
+Sauna Beach Spa is a new small sauna and spa B2C business located on a beautiful Garretstown beach in County Cork. The site is targeted towards people around Cork looking for a way to spend time with friends and family in a relaxing environment. 
 
-The website provides just enough information to get people's interest without over loading them with lots of reading. Minimalist style offers a calming effect to the visitors. Images show relaxed guests. Soothing ocean color scheme and simple layout to make them feel like they are already there. If they feel calm just looking at the website they will more likely be convinced that this experince will offer them the ultimate relaxation.
+The website provides just enough information to get people's interest without over loading them with lots of reading. Minimalist visual style offers a calming effect to the visitor with minimal clicks needed to reach the end goal of contacting the sauna. Images show relaxed guests. Soothing ocean color scheme and simple layout to make them feel like they are already there. If they feel calm just looking at the website they will more likely be convinced that this experince will offer them the ultimate relaxation.
 
-The owner wanted the website to privide a some information on the story of the business, the health benefits, the treatment options and quick way for people to contact them with enquiries. They also wanted to provide people with a sence of longing to be by the seaside getting a massage.
+The owner wanted the website to privide some information on the story of the business, the health benefits, the treatment options and quick way for people to contact them with enquiries. They also wanted to provide people with a sence of longing to be by the seaside getting a massage.
 
-![Responsive Mockup](https://mags07.github.io/Sauna-Beach-Spa/)
+**Link to** [live site](https://mags07.github.io/Sauna-Beach-Spa/)
 
-## Features 
+Full website designed myself: [Margarita Buyukli](https://www.linkedin.com/in/margarita-buyukli-b16477a6/)
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## Contents
+- [**Market Research**](#market-research)
+  - [**Competitor Analysis**](#competitor-analysis)
+    - [**Competitor 1**](#competitor-1)
+    - [**Competitor 2**](#competitor-2)
 
-### Existing Features
+- [**Business Goals**]
+  - [**Scope**](#scope)
+  - [**Specifications**](#specifications)
 
-- __Navigation Bar__
+- [**User Experience**](#user-experience)
+  - [**User Stories**](#user-stories)
+  - [**Responsive Web Design**](#responsive-web-design)
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+- [**Design**](#design)
+  - [**Mockup**](#mockup)
+  - [**Imagery**](#imagery)
+  - [**Typography**](#typography)
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+- [**Technologies**](#technologies)
+  - [**Languages**](#languages)
+  - [**Libraries**](#libraries)
+  - [**Other Tools**](#other-tools)
 
-- __The landing page image__
+- [**Testing**](#testing)
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+- [**Deployment**](#deployment)
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
-
-## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- [**Credits**](#credits)
+  - [**Articles**](#articles)
+  - [**Acknowledgements**](#acknowledgements)
 
 
-### Validator Testing 
+## Market Research
+### Competitor Analysis 
+- __Competitor 1__
+- __Competitor 2__
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+## Business Goals
 
-### Unfixed Bugs
+### Scope
+4 pages 
+Home - About us, a short walk-through description of the experience, health benefits.
+Services - 4-5 massage options plus combos. Price list at the bottom of the page.
+Facilities - Changing room, sauna with a beach view, lounge area with a beach view, water/juice station.
+Contact - Working hours, Google maps location, contact us form.
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+### Specifications
+- __Aspects of a website to address pain points of visitors__
+Minimalist style 
+Lots of photos(from https://pixabay.com/ https://unsplash.com/ )
+Bullet points instead of big blocks of text
+Mouse hovering reactions to catch attention to links
+A contact form
+Google Maps API
+
+
+## User Experince
+
+### First Time Visitor Goals
+
+  - See the short information about Danielle, and learn about services she provides.
+  - Have an easy access to the all site's content by clicking the correct navigation link.
+  - Have an easy access to the social media links such as Instagram, Youtube and Facebook.
+  - See the up-to-date packages being offered.
+  - To see the opening and closing times and what days the sauna is open.
+  - Find out how long the packages take.
+  - Find information about prices
+  - Be able to contact the business owner as I wish through social media, e-mail or a contact form.
+  - Navigate to the location of the sauna easily.
+
+
+### Returning Visitor Goals
+
+  - Be able to navigate easily towards the contact form from the Home page.
+  - Have easy access to the map and phone number for a quick call incase I get lost on the way.
+  - Have an easy access to contact the owner incase I need to chance or cancel a booking, wheather I feel more comformatable doing it over social media, email or a phone call.
+  - See the up-to-date packages and prices being offered if it's been a while since I went there.
+
+### Responsive Website
+- __This website is responcive to the following screen sizes:
+- 375px - mobile size,
+- 768px - tablet size,
+- 1440px - laptop size,
+- 1950px - desktop large size.
+
+
+## Design
+
+### Colour Scheme
+Inspiration
+https://www.pinterest.ie/pin/905927281264221410/
+(colour-palet.png)
+
+Colour Scheme chosen
+https://coolors.co/
+(blue-spa-colour-scheme.png)
+
+Visual colour accessability analitics
+https://contrast-grid.eightshapes.com/
+
+### Typography
+
+- [Google Fonts](https://fonts.google.com/)
+
+  - Used 'Biryani' font for the logo and headings as it looks profisional, but soft/rounded.
+  - Used 'Montserrat' for for the main body writing as it is even more rounded.
+
+### Imagery
+(assets/css/...)
+
+### Video
+Video of a massage
+https://pixabay.com/videos/massage-wellness-recreation-spa-701/
+https://www.pexels.com/search/videos/massage/
+https://unsplash.com/s/photos/massage
+
+### Logo
+Logo icon from https://favicon.io/
+
+### Wireframes
+- Wireframes were created using [Balsamique](https://balsamiq.com/)
+<!--Balsamiq Wireframes here-->
+
+### Features
+Navigation
+Hero in Home page - catch attention
+Welcome - about us
+Benefits
+
+Footer
+Hero images in the rest of the website
+Imagery - movement and opaques to catch attention
+Links for ease of navigation through the website without call to action being too presuring.
+
+Future Features
+Booking online without contact to be able to see availability before commiting to booking.
+
+[Back to contents](#contents)
+
+## Technologies
+
+https://grid.layoutit.com/
+
+### Languages
+
+- [HTML5](https://www.w3schools.com/html/default.asp/)
+
+  - Used for the creation of the website content.
+
+- [CSS3](https://www.w3schools.com/Css/default.asp/)
+
+  - Cascading Style Sheets language used to style individual pages.
+
+[Back to contents](#contents)
+
+### Libraries
+
+- [](https://.com/)
+  - helps with
+
+[Back to contents](#contents)
+
+### Other Tools
+
+- [GitHub](https://github.com/)
+
+  - Hosting service for software development.
+
+- [FontAwesome](https://fontawesome.com/)
+
+  - Icon library and toolkit.
+
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
+
+  - Audit the site for performance, quality, best practices and SEO.
+
+- [AmIResponsive](https://ui.dev/amiresponsive/)
+
+  - An online tool to check how responsive the website is on different screen sizes. Screenshot of this is provided in the begining of README.
+
+- [Markup Validation Service](https://validator.w3.org/)
+
+  - Validator checks the markup validity of Web documents in HTML.
+
+- [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+  - Online tool validates CSS.
+
+[Back to contents](#contents)
+
+## Testing
+
+Testing process and results can be found [here](https://github.com......md).
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+The site was deployed to GitHub pages: [Github](https://github.com/)
+The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab.
+From the left hand menu select 'Pages'
+From the source select Branch: main
+Click 'Save'
+A live link will be displayed when published successfully. It may take about 5 minutes.
+The live link can be found here: https://mags07.github.io/Sauna-Beach-Spa/index.html
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+[Back to contents](#contents)
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+## Credits
 
+### Articles
 
-## Credits 
+- 
+- 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+### Acknowledgements
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+- My mentor Elaine Roche for her advice.
+- [Stackoverflow](https://stackoverflow.com/) community that have answered alot of similar questions I had.
+- Google search engine for the overload of information on website development.
 
 ### Content 
+- The text for the Home page was taken from;
+- The icon in the logo and the social media icons in the footer [Font Awesome](https://fontawesome.com/)
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+[Back to contents](#contents)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+- The photos used :
+- The video used:

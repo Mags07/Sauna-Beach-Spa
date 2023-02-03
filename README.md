@@ -1,10 +1,12 @@
-# Love Running
+# Sauna Beach Spa
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Sauna Beach Spa is a new small sauna and spa business located on a beautiful Garretstown beach in County Cork. The site is targeted towards people around Cork looking for a way to spend time with friends and family in a relaxing environment. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+The website provides just enough information to get people's interest without over loading them with lots of reading. Minimalist style offers a calming effect to the visitors. Images show relaxed guests. Soothing ocean color scheme and simple layout to make them feel like they are already there. If they feel calm just looking at the website they will more likely be convinced that this experince will offer them the ultimate relaxation.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+The owner wanted the website to privide a some information on the story of the business, the health benefits, the treatment options and quick way for people to contact them with enquiries. They also wanted to provide people with a sence of longing to be by the seaside getting a massage.
+
+![Responsive Mockup](https://mags07.github.io/Sauna-Beach-Spa/)
 
 ## Features 
 

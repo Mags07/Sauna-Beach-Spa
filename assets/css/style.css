@@ -101,11 +101,12 @@ h2 {
     max-width: 100%;
     margin: 1%;
     padding: 2% 5%;
+    position: relative;
 }
 
 .left-about {
     float: left;
-    height: 100%;
+    height: auto;
     min-height: 100%;
     width: 40%;
     background-color: #24494f;
@@ -118,7 +119,7 @@ h2 {
     float: right;
     height: 80%;
     display: flex;
-    justify-content: right;#
+    justify-content: right;
 }
 
 .benefits-list {
@@ -126,12 +127,13 @@ h2 {
 }
 
 .link-images {
-    width: 100%;
-    height: 100%;
+    width: 110%;
+    height: auto;
     display: flex;
-    justify-content: right;
+    justify-content:center;
     transition: all .4s ease-in-out;
     opacity: 0.7;
+    position: relative;
 }
 
 .link-images:hover {
@@ -195,11 +197,16 @@ footer {
 
 h3 {
     text-align: left;
-    position: absolute;
+    position: relative;
     top: 11%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+}
+
+.treatment-text {
+    position: absolute;
+    top: 20%;
 }
 
 .grid-container {
@@ -226,9 +233,10 @@ h3 {
     transition: all .4s ease-in-out;
 }
 
-.grid-container img:hover {
+/* .grid-container img:hover { */
+.grid-container .treatment-div:hover {
     width: 100%;
-    opacity: 0.2;
+    opacity: 0.6;
     box-shadow: 0 11px 11px 0 rgba(0, 0, 0, 0.24), 0 10px 10px 0 rgba(0,0,0,0.19);
     transform: scale(1.05); 
 }
@@ -366,13 +374,8 @@ a:hover {
 }
 
 /*media queries*/
-
-375px - mobile size,
-768px - tablet size,
-1440px - laptop size,
-
-/*for screens up to 950px*/
-@media screen and (max-width: 950px) {
+/*for screens up to 1440px (laptop size) */
+@media screen and (max-width: 1440px) {
     #hero {
         font-size: 88%;
     }
@@ -387,10 +390,26 @@ a:hover {
     }
 }
 
-/*for screens up to 650px*/
-@media screen and (max-width: 650px) {
+/*for screens up to 768px (tablet size)*/ 
+@media screen and (max-width: 768px) {
     #hero {
         font-size: 88%;
+    }
+
+    #logo {
+        font-size: 180%;
+    }
+
+    .text {
+        font-size: 90%;
+        width: 100%;
+    }
+}
+
+/*for screens up to 375px (mobile phone)*/
+@media screen and (max-width: 375px) {
+    #hero {
+        font-size: 20vw;
     }
 
     #logo {

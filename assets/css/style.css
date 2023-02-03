@@ -6,7 +6,6 @@
     width: 100vw;
     background-color: #0a7482;
     position: relative;
-
 }
 
 #hero video {
@@ -104,7 +103,7 @@ h2 {
     padding: 2% 5%;
 }
 
-.left_about {
+.left-about {
     float: left;
     height: 100%;
     min-height: 100%;
@@ -113,7 +112,7 @@ h2 {
     padding: 2%;
 }
 
-.right_about {
+.right-about {
     width: 45%;
     float: right;
     height: 80%;
@@ -121,11 +120,11 @@ h2 {
     justify-content: right;
 }
 
-.benefits_list {
+.benefits-list {
     margin-left: 4%;
 }
 
-.link_images {
+.link-images {
     width: 100%;
     height: 100%;
     display: flex;
@@ -134,7 +133,7 @@ h2 {
     opacity: 0.7;
 }
 
-.link_images:hover {
+.link-images:hover {
     box-shadow: 0 11px 11px 0 rgba(0, 0, 0, 0.24), 0 10px 10px 0 rgba(0,0,0,0.19);
     transform: scale(1.05); 
 }
@@ -174,7 +173,7 @@ footer {
 }
 
 #treatments-hero {
-    background-position:center;
+    background-position: center;
     width: 100%;
     height: 50%;
 }
@@ -190,11 +189,11 @@ footer {
 }
 
 .treatments-image {
-    overflow:unset;
+    overflow: unset;
 }
 
 h3 {
-    text-align:left;
+    text-align: left;
     position: absolute;
     top: 11%;
     left: 50%;
@@ -211,10 +210,10 @@ h3 {
         "area4 area5 area6";
     gap: 10px 10px; 
     width: 100%;
-    height:auto;
+    height: auto;
   }
 
-.grid-container > div {
+.grid-container div {
     width: 100%; 
     height: 100%; 
     position: relative;
@@ -223,6 +222,7 @@ h3 {
 .grid-container img {
     width: 100%;
     opacity: 0.5;
+    transition: all .4s ease-in-out;
 }
 
 .grid-container img:hover {
@@ -311,7 +311,7 @@ h3 {
 }
 
 #contact-us-hero { 
-    background-position:center;
+    background-position: center;
     width: 100%;
     height: 50%;
 }

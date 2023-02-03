@@ -1,9 +1,4 @@
-<img width="960" alt="am i responsive screenshot" src="">
-![This is an image]()
-
-Navigation sizing up
-Add comments to html
-
+![Am I Responcive](screenshots/am-i-responcive.png)
 
 # Sauna Beach Spa
 
@@ -23,7 +18,7 @@ Full website designed myself: [Margarita Buyukli](https://www.linkedin.com/in/ma
     - [**Competitor 1**](#competitor-1)
     - [**Competitor 2**](#competitor-2)
 
-- [**Business Goals**]
+- [**Business Goals**](#business-goals)
   - [**Scope**](#scope)
   - [**Specifications**](#specifications)
 
@@ -50,28 +45,47 @@ Full website designed myself: [Margarita Buyukli](https://www.linkedin.com/in/ma
   - [**Acknowledgements**](#acknowledgements)
 
 
+
 ## Market Research
+
 ### Competitor Analysis 
+
 - __Competitor 1__
+
+[The Sauna Snugg](https://www.thesaunasnugg.com/book-now)
+Customer pain points:
+- The website has a large navigation bar
+- There is alot to read
+- Lack of photos
+
 - __Competitor 2__
+
+[My Hot Spot](https://www.myhotspot.ie/)
+Customer pain points:
+- Modern, parallax website, but it doesn't get the cozy point across.
+- Lack of photos
+- You have to donwload an app to book
+<br>
+<br>
 
 ## Business Goals
 
 ### Scope
 4 pages 
-Home - About us, a short walk-through description of the experience, health benefits.
-Services - 4-5 massage options plus combos. Price list at the bottom of the page.
-Facilities - Changing room, sauna with a beach view, lounge area with a beach view, water/juice station.
-Contact - Working hours, Google maps location, contact us form.
+- Home - About us, a short walk-through description of the experience, health benefits.
+- Services - 4-5 massage options plus combos. Price list at the bottom of the page.
+- Facilities - Changing room, sauna with a beach view, lounge area with a beach view, water/juice station.
+- Contact - Working hours, Google maps location, contact us form.
 
 ### Specifications
+
 - __Aspects of a website to address pain points of visitors__
-Minimalist style 
-Lots of photos(from https://pixabay.com/ https://unsplash.com/ )
-Bullet points instead of big blocks of text
-Mouse hovering reactions to catch attention to links
-A contact form
-Google Maps API
+- Minimalist style 
+- Lots of photos(from https://pixabay.com/ https://unsplash.com/ )
+-Bullet points instead of big blocks of text
+- Mouse hovering reactions to catch attention to links
+- A contact form
+- Google Maps API
 
 
 ## User Experince
@@ -96,27 +110,19 @@ Google Maps API
   - Have an easy access to contact the owner incase I need to chance or cancel a booking, wheather I feel more comformatable doing it over social media, email or a phone call.
   - See the up-to-date packages and prices being offered if it's been a while since I went there.
 
-### Responsive Website
-- __This website is responcive to the following screen sizes:
-- 375px - mobile size,
-- 768px - tablet size,
-- 1440px - laptop size,
-- 1950px - desktop large size.
-
-
 ## Design
 
 ### Colour Scheme
-Inspiration
-https://www.pinterest.ie/pin/905927281264221410/
-(colour-palet.png)
+Inspiration from [Pinterest](https://www.pinterest.ie/pin/905927281264221410/)
+![Colour Inspiration](screenshots/colour-palet.png)
 
-Colour Scheme chosen
-https://coolors.co/
-(blue-spa-colour-scheme.png)
+Colour Scheme chosen from [Coolors](https://coolors.co/)
+![Colour Scheme](screenshots/blue-spa-colour-scheme.png)
 
 Visual colour accessability analitics
-https://contrast-grid.eightshapes.com/
+[Contrast Grid Eightshapes](https://contrast-grid.eightshapes.com/)
+![](screenshots/colour-contrast-accessibility.png)
+
 
 ### Typography
 
@@ -125,21 +131,19 @@ https://contrast-grid.eightshapes.com/
   - Used 'Biryani' font for the logo and headings as it looks profisional, but soft/rounded.
   - Used 'Montserrat' for for the main body writing as it is even more rounded.
 
-### Imagery
-(assets/css/...)
+### Images & Video
 
-### Video
-Video of a massage
-https://pixabay.com/videos/massage-wellness-recreation-spa-701/
-https://www.pexels.com/search/videos/massage/
-https://unsplash.com/s/photos/massage
+All videos and images are from [Pexels](https://www.pexels.com/)
 
 ### Logo
-Logo icon from https://favicon.io/
+Logo icon from [Favicon](https://favicon.io/)
 
 ### Wireframes
-- Wireframes were created using [Balsamique](https://balsamiq.com/)
+- Wireframes were created using [Balsamiq](https://balsamiq.com/)
 <!--Balsamiq Wireframes here-->
+![](screenshots/wireframe1.png)
+![](screenshots/wireframe2.png)
+![](screenshots/wireframe3.png)
 
 ### Features
 Navigation

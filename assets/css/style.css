@@ -110,6 +110,7 @@ h2 {
     width: 40%;
     background-color: #24494f;
     padding: 2%;
+    display: block;
 }
 
 .right-about {

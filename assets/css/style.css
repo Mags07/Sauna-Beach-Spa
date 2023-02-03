@@ -118,7 +118,7 @@ h2 {
     float: right;
     height: 80%;
     display: flex;
-    justify-content: right;
+    justify-content: right;#
 }
 
 .benefits-list {
@@ -233,43 +233,8 @@ h3 {
     transform: scale(1.05); 
 }
 
-/* 
-.area1 >h3{
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-}
-
-.area2 {
-
-}
-
-.area3 {
-
-}
-
-.area4 {
-
-}
-
-.area5 {
-
-}
-
-.area6 {
-
-} */
-/* 
-.picture1 > h3 {
-    text-align: center;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
+.picture1 {
+    grid-area: area1;
     background-image: url(assets/css/images_css/sauna_only.webp);
 }
 
@@ -296,7 +261,7 @@ h3 {
 .picture6 {
     grid-area: area6;
     background-image: url(assets/css/images_css/face_body_massage.webp);
-} */
+}
 
 /*Contact Us page hero picture*/
 .hero-image2 {

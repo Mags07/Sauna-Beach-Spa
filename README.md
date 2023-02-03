@@ -1,4 +1,9 @@
 <!-- <img width="960" alt="am i responsive screenshot" src="https://"> -->
+![This is an image]()
+
+Navigation sizing up
+Add comments to html
+
 
 # Sauna Beach Spa
 
@@ -168,14 +173,12 @@ https://grid.layoutit.com/
 
 [Back to contents](#contents)
 
-### Libraries
+### Libraries & Other Tools
 
 - [](https://.com/)
   - helps with
 
-[Back to contents](#contents)
-
-### Other Tools
+- [Grid Layout It](https://grid.layoutit.com/)
 
 - [GitHub](https://github.com/)
 
@@ -221,6 +224,8 @@ The live link can be found here: https://mags07.github.io/Sauna-Beach-Spa/index.
 [Back to contents](#contents)
 
 ## Credits
+- Grid Template Layout
+https://www.youtube.com/watch?v=Pip8s2BpelM&ab_channel=SixMinutes.Smarter.
 
 ### Articles
 

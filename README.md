@@ -1,4 +1,4 @@
-<!-- <img width="960" alt="am i responsive screenshot" src="https://"> -->
+<img width="960" alt="am i responsive screenshot" src="">
 ![This is an image]()
 
 Navigation sizing up
